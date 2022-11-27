@@ -11,5 +11,13 @@ for c in range(0, 5):
             menor = lista[c]
 
 print(lista)
-print("O maior numero é: {}".format(maior))
-print("O menor numero é {}".format(menor))
+print("O maior numero digitado foi: {} nas posições: ".format(maior), end="")
+for i, v in enumerate(lista):
+    if v == maior:
+        print(f"{i}...", end="")
+print()
+print("O menor numero digitado foi: {} nas posições: ".format(menor), end="")
+for i, v in enumerate(lista):
+    if v == menor:
+        print(f"{i}...", end="")
+print()
