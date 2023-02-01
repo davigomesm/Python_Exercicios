@@ -1,7 +1,0 @@
-frase = str(input("escreva uma frase: ")).strip().lower()
-contar = frase.count("a")
-posicao = frase.find("a")
-ultima = frase.rfind("a")
-print("A letra aparece {} vezes".format(contar))
-print("A letra a apareceu primeiramente na posição: {}".format(posicao))
-print("A letra a apareceu pela ultima vez na posição: {}".format(ultima))
