@@ -1,3 +1,2 @@
-# Repositorio Python
-Primeiro repositório (Davigomesm)  
-Guardo todos o programas em python aqui, incluindo testes e programas de aprendizado.
+# Curso de Python - Curso em Vídeo 
+Lista de Exercícios - Curso de Python - Curso em Vídeo
