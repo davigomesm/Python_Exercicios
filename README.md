@@ -1,2 +1,2 @@
-# Curso de Python - Curso em Vídeo 
-Lista de Exercícios - Curso de Python - Curso em Vídeo
+# Curso de Python - Lista de exercícios
+O curso completo contém 115 exercícios
