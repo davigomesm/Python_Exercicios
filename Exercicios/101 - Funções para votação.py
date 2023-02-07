@@ -5,10 +5,10 @@ def voto(ano):
     print(f"Esta pessoa nasceu no ano {ano}")
     if idade < 16:
         return "Voto negado"
-    elif idade >= 18:
-        return "Voto obrigatorio"
-    elif idade > 65:
+    elif 16 <= idade < 18 or idade >= 65:
         return "Voto opcional"
+    else:
+        return "Voto obrigatorio"
 
 
 nascimento = int(input("Digite o ano de nascimento: "))
