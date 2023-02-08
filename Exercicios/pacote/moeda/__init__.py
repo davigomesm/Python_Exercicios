@@ -73,4 +73,3 @@ def resumo(preco, aumento, desconto):
 {aumento}{"% de aumento: ":<18}{aumentar(preco, aumento, formatacao=True):>10}
 {desconto}{"% de desconto: ":<18}{diminuir(preco, desconto, formatacao=True):>10}''')
     print('-' * 30)
-    
