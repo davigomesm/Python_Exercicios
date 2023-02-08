@@ -4,7 +4,6 @@
 #       B) Uma listagem com as pessoas mais pesadas.
 #       C) Uma listagem com as pessoas mais leves.
 
-
 pessoas = list()
 dados = list()
 pesados = list()
