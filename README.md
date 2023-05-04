@@ -1,2 +1,2 @@
-# Curso de Python - Lista de exercícios
-O curso completo contém 115 exercícios
+# Python course - list of exercises
+🎲 Programming logic exercises done in python
